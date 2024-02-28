@@ -1,0 +1,19 @@
+{
+  "@@locale": "es",
+  "appTitle": "minsait_tech_test",
+  "@appTitle": {
+    "description": "Titulo de la app"
+  },
+  "profile": "Perfil",
+  "map": "Mapa",
+  "movies": "Peliculas",
+  "topRated": "Más valoradas",
+  "upComing": "Proximamente ",
+  "museum": "Museo de Antropologia",
+  "soumaya": "Museo Soumaya",
+  "bartes": "Palacio de Bellas Artes",
+  "qr": "Escanear Ubicación QR",
+  "qrinfo": "Solo QR en formato Latitud y Longitud",
+  "review": "Agregar Reseña",
+  "save": "Guardar"
+}
